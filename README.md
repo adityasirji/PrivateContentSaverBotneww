@@ -15,7 +15,7 @@ Get pyrogram string session from [BOT](https://t.me/@savevideo05_bot) or [Replit
 # Builpacks
 
 - `heroku/python`
-- `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git`
+- `https://github.com/kd2929/heroku-buildpack-ffmpeg-latest.git`
 
 # Issues
 - if you see any message like `ERROR R12` in heroku logs, just restart. 
